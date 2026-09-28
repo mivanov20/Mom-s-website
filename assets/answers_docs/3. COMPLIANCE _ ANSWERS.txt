@@ -1,0 +1,157 @@
+COMPLIANCE & SAFETY
+What does a trucking company's compliance system need to include?
+A compliance system is how a trucking company keeps track of the rules it has to follow and makes sure the required work gets done. It includes the records you keep, the things you check, what you do when something goes wrong, and how you show that the company is following the required procedures.
+What is a driver record?
+A driver record contains the information and documents required to show that a driver is properly licensed and qualified for the work they're doing. The company also needs to monitor information that changes over time, such as licence status, violations and other safety-related information.
+For an owner-operator driving their own truck, the driver requirements still apply.
+What are Hours of Service?
+Hours of Service (HOS) sets limits on how long a driver can drive and work and when rest is required. The company needs to keep the required HOS records and, where required, monitor them for violations and deal with problems when they happen.
+The HOS rules that apply depend on where you operate.
+What is a vehicle record?
+A vehicle record contains the required information about the truck's inspections, maintenance and repairs. Finding a problem is only part of the process. The company also needs to make sure the problem is corrected and documented.
+What is corrective action in trucking?
+A violation, failed inspection, collision or repeated problem needs to be reviewed. The company needs to look at what happened, determine whether something needs to change, take appropriate action and keep a record of what was done.
+That's what corrective action means.
+What records are checked during a trucking audit?
+A trucking audit can include driver files, Hours of Service records, inspection records, maintenance and repair records, safety records and evidence of corrective action.
+The exact records reviewed depend on the type of audit and the requirements that apply to the company.
+I hired a new driver. What needs to be in their driver file before they start?
+Before a new driver starts operating for your company, you need to make sure they are properly qualified for the vehicle and work you are assigning to them and create a driver file containing the required employment, licence, driving-history and training records.
+A driver's licence by itself is not a complete driver file.
+What should I collect from a new driver?
+The driver's file should include a completed employment application, a copy of the driver's licence, the driver's employment history for the previous three years, a current driver's abstract and applicable training certificates.
+You should also confirm that the driver's licence is valid for the class of vehicle they will operate and that they have any required endorsements, such as an air-brake endorsement.
+How recent does the driver's abstract need to be?
+When the driver is first hired, the driver's abstract must be dated within 30 days of the date of employment or hire. After that, an updated abstract must be obtained at least annually.
+Alberta also offers a Commercial Driver's Abstract, which includes commercial driving information such as CVSA inspection results and can provide additional information when assessing a driver before hiring.
+Do I need the driver's previous employment history?
+Yes. The driver file must include the driver's employment history for the three years immediately before they started working for your company.
+Previous experience does not remove your responsibility to make sure the driver is properly qualified for your operation.
+Does the driver need training before their first trip?
+The driver needs the training required for the work they will perform. Depending on the operation, this may include Hours of Service, trip inspections, cargo securement, Transportation of Dangerous Goods and other training required for the driver's duties.
+The carrier's safety program must also address driver qualifications, training and the responsibilities that apply to drivers operating the company's commercial vehicles.
+Do I need to keep the driver's training certificates?
+Yes. Applicable driver training records and certificates need to be maintained as part of the driver's records. The carrier should also track when training or certificates need to be renewed.
+What else gets added to the driver file after they start?
+The driver file continues to develop while the driver works for the carrier. It includes required records such as updated driver abstracts, safety-law convictions, administrative penalties, reportable collisions and training records.
+The carrier also needs to continue monitoring the driver's qualifications and safety performance rather than treating the hiring documents as a one-time requirement.
+How long do I have to keep driver records?
+Different driver records have different retention periods. For example, Alberta requires driver abstracts and certain safety records to be kept for the current year plus the four preceding years, while some training records have their own retention requirements.
+Records should be maintained according to the retention period that applies to each type of document.
+Is the driver file the same for every trucking company?
+Not necessarily. The records and training required can depend on the carrier's Operating Status, the vehicles being operated, the driver's duties and where the carrier operates.
+A carrier should determine what applies to the driver before dispatching them and then continue maintaining the driver's file as the person's employment and driving history develop.
+Regulatory verification completed using current Alberta government carrier-training, driver-abstract, safety-program and audit guidance. Alberta specifically confirms the 30-day abstract at hire, annual abstracts, three-year employment history, employment application, licence copy and driver training records.
+Can an owner-operator be missing a driver file because they own the company?
+No. Owning the company does not mean you can operate without a driver file. Alberta requires a carrier to maintain driver records for every person authorized to operate its regulated commercial vehicles, including owners and management who drive.
+If you are both the carrier and the driver, the company still needs to maintain the driver records that apply to you.
+Do I need a driver file if I am the only driver?
+Yes. Being the owner and the only driver does not remove the carrier's responsibility to maintain your driver records.
+Your file should contain the records required to show your qualifications and safety history, including your driver's licence, driver abstracts, applicable training records, convictions, administrative penalties and reportable collision records.
+Do I need an employment application for myself?
+Not necessarily. Alberta's carrier guidance recognizes that some employment records apply where applicable. An owner who operates the company's vehicle still needs a driver file, but employment documents designed for a person being hired by the company do not necessarily apply in the same way to the owner.
+The important point is that being the owner does not eliminate the rest of the driver-file requirements.
+Do I still need my own driver abstract?
+Yes. A driver abstract is part of the required driver records. An updated abstract must also be obtained at least every 12 months.
+Alberta recommends a Commercial Driver's Abstract for commercial drivers because it includes additional information such as commercial safety convictions and CVSA inspection results.
+Do I need to keep records of my own training?
+Yes. The carrier must maintain records of driver training related to operating commercial vehicles and complying with safety laws. If you are the owner and the driver, your applicable training records and certificates still need to be kept.
+The training you need depends on the work you perform and may include areas such as Hours of Service, trip inspections, cargo securement and Transportation of Dangerous Goods, where applicable.
+What else needs to stay in my driver file?
+The carrier must maintain the required records as your driving history develops. This includes annual driver abstracts, safety-law convictions, administrative penalties, reportable collisions and applicable training records.
+Many of these records must be retained for the current year plus the four preceding years, although individual records and training certificates can have specific retention requirements.
+What happens when I hire my first driver?
+Once you hire another driver, you need to create a separate driver file for that person. The hiring process includes records such as the driver's employment application, previous three-year employment history, driver's licence, driver abstract and applicable training certificates.
+The carrier then becomes responsible for maintaining and monitoring that driver's records as well as the owner's.
+Can an owner-operator have problems during an audit because their own driver file is missing?
+Yes. Driver files are part of the records Alberta carriers can be required to produce during a compliance review or audit. The owner is not excluded simply because they own the carrier.
+For an owner-operator, the question is not whether a driver file is required. The question is which records apply when the owner and the driver are the same person.
+Regulatory check completed against Alberta's current carrier-training material and Alberta government safety-program guidance. The key clarification was the owner issue: Alberta's own sample safety program expressly includes owners and management among people for whom driver records are maintained, while marking certain employment documents as applicable only where appropriate.
+What happens when a compliance problem is found?
+Finding a compliance problem does not always mean the carrier will immediately receive a fine or lose its ability to operate. What happens next depends on what was found, how serious it is and the carrier's overall compliance history.
+Alberta monitors commercial carriers and can use progressively stronger intervention or disciplinary action when compliance problems are identified.
+What kinds of compliance problems can be found?
+A compliance problem can involve driver files, Hours of Service, vehicle inspections, maintenance records, safety and maintenance programs, permits, registrations or other records and requirements that apply to the carrier.
+Problems can also be identified through roadside inspections, convictions, collisions, a New Carrier Compliance Review, a facility audit or the carrier's overall safety performance.
+Do I get a chance to correct the problem?
+Depending on the problem and how it was identified, the carrier may be required to correct the issue or meet conditions assigned by Alberta Transportation.
+Correcting one missing document may not be enough if the problem shows that the carrier's system is not working properly. The carrier may also need to change the process that allowed the problem to happen.
+What is a corrective action?
+A corrective action addresses the problem that was found and the reason it happened.
+For example, obtaining a missing document fixes the immediate problem. Changing the company's procedure so that the document is collected, reviewed and renewed when required addresses the underlying problem.
+Will I automatically get a fine?
+No. A compliance problem does not automatically result in a fine. Alberta uses different intervention and disciplinary measures depending on the carrier's safety performance and the circumstances.
+Possible action can include warnings, assigned conditions, additional monitoring, an audit, administrative penalties, changes to the carrier's Safety Fitness Rating or suspension of the Safety Fitness Certificate.
+What happens if several problems are found?
+Several problems can indicate that the carrier has a broader weakness in its safety or maintenance systems rather than one isolated missing record.
+Alberta can consider the results of an audit together with information on the carrier's profile when deciding whether further intervention or disciplinary action is required.
+What happens after I correct the problem?
+If Alberta has assigned a condition or requested documents, the carrier needs to complete what was required by the assigned deadline and provide the requested information.
+The matter is not necessarily complete simply because the carrier has corrected its own copy of the records. Where Alberta requires follow-up, the required documents or evidence need to be submitted and reviewed.
+Can a compliance problem affect my Safety Fitness Certificate?
+Yes. Compliance problems can affect the carrier's Safety Fitness Rating and can lead to conditions, administrative penalties or other intervention.
+If a carrier fails to complete an assigned audit or New Carrier Compliance Review by the required deadline, its Safety Fitness Certificate can be suspended, which means its regulated National Safety Code vehicles cannot operate until the required condition has been completed and the submitted documents have been reviewed.
+What should I do when a compliance problem is found?
+Start by identifying exactly what requirement was not met, what needs to be corrected and whether Alberta has given you a deadline to respond. Correct the immediate problem, determine why it happened and make any necessary changes to prevent it from happening again.
+Keep records showing what was corrected and when. If Alberta requires documents, corrective action or another response by a specific date, make sure the carrier meets that deadline.
+Regulatory check completed against current Alberta government guidance on carrier monitoring, facility audits, NCCRs and carrier intervention and discipline.
+What happens if my carrier profile starts showing violations or convictions?
+If violations or convictions start appearing on your Alberta Carrier Profile, they become part of the safety information Alberta uses to monitor your operation. One event does not automatically mean your Safety Fitness Certificate is in trouble, but repeated events or a developing pattern can increase the carrier's risk factor and lead to closer monitoring.
+The important part is to review what is appearing on the profile and address the reason behind it before the same problems continue.
+What information shows up on my Carrier Profile?
+Your Carrier Profile can contain information about convictions, CVSA inspections and violations, reportable collisions, monitoring activity and other safety information connected to your commercial operation.
+Relevant events that occur outside Alberta can also be reported back to Alberta and become part of the carrier's profile.
+Is a violation the same as a conviction on my Carrier Profile?
+No. A roadside inspection violation and a conviction are not treated exactly the same way.
+Convictions are assigned points based on the seriousness of the offence, and those points are used in calculating the carrier's conviction measure. CVSA inspection violations are recorded through the inspection results and affect the carrier's inspection performance.
+Both are important because they can show where drivers, vehicles or company procedures are not meeting requirements.
+Can one conviction put my carrier on monitoring?
+Not necessarily. Alberta calculates a carrier's Risk Factor score using its conviction, collision and CVSA inspection performance and compares the carrier's performance with other carriers.
+The effect of one conviction depends on the carrier's overall record. As convictions, collisions or inspection problems accumulate, the Risk Factor score can increase and the carrier can move into a monitoring stage.
+What happens if my Risk Factor gets too high?
+Alberta uses progressively stronger monitoring stages as a carrier's Risk Factor increases.
+At Monitoring Stage 1, the carrier receives a warning letter. At Monitoring Stage 2, the carrier receives another warning letter advising that its Risk Factor is approaching an unacceptable level. At Monitoring Stage 3, a condition is placed on the carrier's Safety Fitness Certificate requiring the carrier to complete a facility audit.
+The carrier should not wait until an audit is required before addressing a developing pattern on the profile.
+Should I review inspection violations even if they are not convictions?
+Yes. Inspection violations affect the carrier's inspection measure, even though they are not conviction points.
+For example, repeated Hours of Service violations may indicate a driver-training or monitoring problem. Repeated vehicle defects may indicate that the company's inspection or maintenance system needs attention. Reviewing the pattern can help the carrier identify a problem before it becomes more serious.
+What should I do if one driver keeps getting violations or convictions?
+Review the events with the driver and determine why they are happening. Depending on the problem, the carrier may need additional training, closer monitoring, changes to its procedures or disciplinary action under its safety program.
+The carrier should document the problem and the action taken. Alberta's safety-program requirements include a system for ensuring drivers comply with safety laws and for taking disciplinary action when they do not.
+What if something on my Carrier Profile is wrong?
+If information on your Carrier Profile is incorrect, you can request a review through Alberta Transportation and Economic Corridors.
+If you are disputing a conviction, collision or inspection result itself, you generally need to deal with the agency or jurisdiction that originally issued or reported the event. The Carrier Profile is the record of the information; changing the underlying event may require dealing with its original source.
+How often should I check my Carrier Profile?
+Alberta requires carriers to obtain and review a Carrier Profile at least once every 12 months to ensure the information is accurate and to monitor the carrier's safety performance.
+Checking it more frequently can help you identify new convictions, collisions, inspection results and changes in your Risk Factor before they develop into a larger compliance problem.
+Regulatory check complete. I revised the copy directly.
+What happens if an inspection or document is missing from my file?
+A missing inspection or document can become a compliance problem if it is a record your carrier is required to keep. What happens depends on what is missing and whether the problem is an isolated record or shows that the carrier's safety or maintenance system is not being followed.
+Finding the problem yourself gives you an opportunity to correct what can be corrected and determine why the record was missed before it becomes part of a compliance review or audit.
+Can I just replace a missing document?
+If the document already exists and you simply do not have a copy in the correct file, obtain the original record or a legitimate replacement and put it in the carrier's records.
+If the required inspection, maintenance or other activity was never completed, obtaining or creating a document afterward does not change that. The carrier should correct what can still be corrected and address the reason the requirement was missed.
+What if I forgot to do the inspection?
+A required inspection that was never performed is different from an inspection report that was completed but cannot be found.
+If an inspection was missed, the carrier needs to address the immediate requirement and review why its inspection or maintenance system failed. Alberta requires carriers to establish and follow maintenance and inspection programs and keep records showing the work that was completed.
+Can I recreate a document after the fact?
+You should not create or backdate a record to make it appear that an inspection, maintenance activity or other required action occurred when it did not. Alberta requires carrier records to be true, accurate and legible.
+If a genuine record has been lost, obtain another copy from the original source where possible. The replacement should reflect what actually occurred.
+What if the document is expired rather than missing?
+An expired document may mean the carrier did not meet a requirement during the period when it was no longer valid. Renewing or replacing it corrects the current file, but it does not change what happened during the period when the document was expired.
+The carrier should determine whether the expiry affected the driver, vehicle or operation and correct the underlying process that allowed the expiry to be missed.
+Will one missing document make me fail an audit?
+Not necessarily. During a facility audit, Alberta reviews a sample of the carrier's records across carrier safety, driver safety, Hours of Service and vehicle maintenance and scores the carrier's level of compliance.
+One missing record may have a different effect from repeated missing inspections, incomplete driver files or maintenance records that show the carrier is not following its required programs.
+What happens if Alberta asks for a document and I cannot provide it?
+If a required record is requested during an audit or compliance review and the carrier cannot produce it, that can affect the carrier's compliance assessment.
+The carrier should provide the legitimate records that are available and explain the missing information accurately. Do not create a record simply to fill the gap.
+How long do I need to keep inspection and maintenance records?
+The retention period depends on the record. Alberta requires trip inspection reports to be kept for at least six months. Trip inspection reports involving additional maintenance work must be kept with the maintenance records for the current year plus four additional years.
+Other required vehicle inspection, maintenance and repair records are generally kept for the current year plus the previous four years.
+Can I keep my compliance records electronically?
+Yes. Alberta allows applicable vehicle records to be maintained in electronic or paper form, provided the required records can be readily produced when requested.
+The important part is that the record exists, is complete and accurate, is retained for the required period and can be produced when needed.
+How can I prevent documents from going missing?
+Use a system that identifies what records are required, where they are kept, when they expire and when inspections, maintenance or reviews are due.
+Driver files, vehicle files, inspection records, maintenance records and other compliance documents should be reviewed regularly. Alberta specifically encourages carriers to conduct their own compliance reviews so missing or outdated records can be identified before they become part of a larger compliance problem.

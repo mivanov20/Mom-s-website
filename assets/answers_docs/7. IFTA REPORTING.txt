@@ -1,0 +1,69 @@
+IFTA REPORTING
+What is IFTA, and who needs to file IFTA returns?
+IFTA — International Fuel Tax Agreement — is a system for reporting fuel tax when qualifying commercial trucks operate in more than one participating province or U.S. state. These participating provinces and states are called IFTA jurisdictions. Instead of filing fuel tax returns separately in every IFTA jurisdiction where you travel, you file one return through your home jurisdiction.
+Who needs IFTA?
+For an Alberta-based trucking company, IFTA applies when you operate a qualifying commercial vehicle in Alberta and at least one other IFTA jurisdiction. A qualifying vehicle has two axles and weighs more than 11,797 kg (26,000 lb), three or more axles regardless of weight, or is used with a trailer and has a combined weight of more than 11,797 kg (26,000 lb).
+A qualifying truck operating only within Alberta does not need IFTA simply because of its weight.
+How often do I file an IFTA return?
+IFTA returns are filed quarterly. You report the distance travelled and fuel purchased for your IFTA vehicles. Your home jurisdiction uses that information to calculate the fuel tax between the jurisdictions where you operated.
+Do I still file an IFTA return if my truck didn't travel?
+Yes. Once you have an active IFTA licence, you still need to file the quarterly return even if there was no travel during the quarter. You also need to file if your IFTA vehicles travelled only within Alberta during that quarter.
+What records do I need for IFTA?
+You need records that support the distance travelled and fuel purchased for your IFTA vehicles. This includes mileage or trip records and fuel receipts or invoices. The records need to show where the truck travelled and where fuel was purchased.
+What if I only occasionally travel outside Alberta?
+If you have a qualifying truck that is not registered for IFTA, you can purchase a fuel tax trip permit when travelling into another IFTA jurisdiction. For occasional travel outside Alberta, trip permits may be an alternative to maintaining an IFTA licence and filing quarterly returns.
+Can I cancel my IFTA if I stop travelling outside Alberta?
+Yes. If you stop operating in other IFTA jurisdictions and no longer need your IFTA licence, you can cancel your Alberta IFTA registration. If you keep the IFTA account active, you must continue filing quarterly returns even during quarters when you have no travel outside Alberta.
+If you begin qualifying interjurisdictional operations again later, the IFTA account can be reactivated.
+Do empty miles count for IFTA?
+Yes. Empty miles count for IFTA. The distance travelled by a qualified motor vehicle needs to be recorded whether the truck is loaded or empty. Deadheading to pick up a load or returning empty after a delivery does not remove those kilometers from your IFTA distance records.
+Do deadhead miles count for IFTA?
+Yes. Deadhead kilometers count for IFTA. If you deliver a load and drive empty to another location, or return empty to Alberta, the distance needs to be recorded in each jurisdiction where it was travelled. IFTA distance is not based on whether the truck was carrying freight or earning revenue.
+Does bobtail distance count for IFTA?
+Yes. Bobtail distance is also included. Driving the tractor without a trailer does not automatically remove those kilometers from your IFTA distance records. The distance travelled by the qualified motor vehicle still needs to be captured.
+What if I drive through a jurisdiction without buying fuel there?
+The distance still counts. Distance travelled and fuel purchased are recorded separately for IFTA. You may travel through a jurisdiction without buying fuel there, but the kilometers travelled in that jurisdiction still need to be reported.
+What if I buy fuel in one province but use it in another?
+That is normal. IFTA is designed to account for fuel purchased and distance travelled across participating jurisdictions. Your records therefore need to show both the distance travelled in each jurisdiction and the fuel purchased during the reporting period.
+How should I track empty miles?
+Track empty kilometers the same way you track loaded kilometers. Your records need to capture the vehicle's travel and identify the jurisdiction in which each part of the distance occurred. Do not remove empty, deadhead or bobtail kilometers simply because the truck was not carrying a load.
+What happens if my fuel and mileage records don't match?
+Your fuel purchases and mileage records will not necessarily match transaction by transaction. A truck can buy fuel in one jurisdiction and use that fuel while travelling through several others. What matters for IFTA is that your fuel and distance records are complete and support the information reported on your return. Missing kilometers, missing fuel purchases or records that do not make sense when compared with the truck's actual travel should be investigated before the return is filed.
+Why don't my fuel purchases match the kilometers in each jurisdiction?
+IFTA does not expect the fuel purchased in each jurisdiction to equal the fuel consumed there. You may fill the truck in Alberta and then travel through Saskatchewan and Manitoba before buying fuel again. Your IFTA calculation uses total distance travelled, distance travelled in each jurisdiction and total fuel purchased, so the fuel and distance records work together rather than matching jurisdiction by jurisdiction.
+What should I check if the numbers don't make sense?
+Look for missing trips, gaps in odometer or vehicle-tracking records, incorrect jurisdiction entries, missing or duplicate fuel purchases and fuel transactions that do not fit the truck's recorded travel. If your ELD, GPS or another mileage source shows different figures, determine why before changing anything. The records used for IFTA need to support the vehicle's actual route, total distance and distance travelled in each jurisdiction.
+What if I am missing fuel receipts?
+Fuel claimed as tax-paid fuel needs to be supported by acceptable fuel-purchase records. If the documentation is missing, the carrier may not receive credit for that fuel during an audit. Try to obtain legitimate replacement documentation from the fuel supplier or fuel-card provider rather than estimating the purchase.
+What if some mileage is missing?
+If kilometers are missing, use legitimate records such as vehicle-tracking information, trip records and other supporting documents to determine where the truck travelled and how much distance belongs to each jurisdiction. Do not simply add kilometers to make the totals look reasonable. The distance reported should reflect the vehicle's actual travel and be supported by the records available.
+Can problems with my records affect an IFTA audit?
+Yes. If the fuel or distance records are incomplete or inadequate, an IFTA audit can result in the reported figures being adjusted and additional tax being assessed. The carrier needs to be able to show how the figures reported on each quarterly return were calculated from its underlying fuel and distance records.
+What should I check before filing my IFTA return?
+Before filing, make sure all qualified vehicles are included, the complete distance is accounted for, jurisdictional kilometers are recorded correctly and the fuel purchases being claimed are supported. Investigating gaps before the return is filed is much easier than trying to reconstruct the records later during an audit.
+I have an IFTA account. Does that mean I automatically owe fuel tax every quarter?
+No. Having an IFTA account does not automatically mean you will owe fuel tax every quarter. IFTA uses your fuel purchases and the distance your qualified vehicles travelled in each jurisdiction to determine whether additional fuel tax is owing or whether your account has a credit.
+Why would I owe fuel tax if I already paid tax when I bought the fuel?
+IFTA distributes fuel tax based on where your qualified vehicles travel, not simply where you purchased the fuel. For example, you may buy most of your fuel in Alberta but travel extensively in other provinces or U.S. states. Your quarterly return uses your fuel purchases and jurisdictional distance to calculate the net fuel-tax result for all of the IFTA jurisdictions in which you operated.
+Can my IFTA return result in a credit?
+Yes. IFTA does not only collect additional tax. Alberta, as your base jurisdiction, calculates the net result for all member jurisdictions through your quarterly return. Depending on your fuel purchases, distance travelled and the applicable tax rates, the return can result in tax owing or a credit.
+What if I only drove in Alberta during the quarter?
+You still need to file your IFTA return. Alberta specifically requires an IFTA return even when your qualified vehicles only travelled in Alberta during the reporting period. The return reports the fuel purchased and distance travelled for your IFTA vehicles during that quarter.
+What if my trucks didn't operate at all during the quarter?
+You still need to file. Alberta requires a quarterly IFTA return even when there was no travel during the reporting period. Having no activity is different from having no filing obligation, so the quarter should not simply be left unreported.
+Why can my IFTA result change from one quarter to another?
+Your routes, fuel purchases and jurisdictional tax rates can change from quarter to quarter. You may buy more fuel in one jurisdiction during one quarter and travel more extensively in another jurisdiction during the next. Because IFTA calculates the net fuel-tax position using the actual fuel and distance reported for each period, owing tax one quarter does not mean you will automatically owe tax the next quarter.
+When do I have to file my IFTA return?
+IFTA returns are filed quarterly and are due on the last day of the month following the end of each calendar quarter. The return is required whether you owe tax, have a credit, travelled only in Alberta or had no travel during the quarter.
+My mileage records are incomplete. What do I do?
+If your mileage records are incomplete, do not guess at the missing kilometres or create numbers simply to complete your IFTA return. Start by identifying the gaps and use the legitimate records available from your operation to determine where the truck actually travelled and how much distance belongs to each jurisdiction.
+How can I reconstruct missing mileage?
+Compare the records that were created while the truck was operating. Depending on what is available, this may include ELD or GPS data, trip records, fuel purchases, dispatch information and other documents that help establish the truck's route and movement. Look for gaps between recorded trips, locations or mileage and use the available information together to establish the missing travel as accurately as possible.
+What if my ELD or GPS still has the missing information?
+Retrieve and preserve it. Electronic vehicle-tracking information can be valuable when other mileage records are incomplete because it may show the date, route, locations and distance travelled. Do not wait until the information is automatically deleted or is no longer available from the system.
+Can I estimate the missing kilometres?
+Do not simply estimate kilometres or divide missing distance between jurisdictions to make the totals work. Your IFTA return needs to report the mileage travelled by your qualified vehicles, and the underlying records need to support the reported distance. If the available information is not enough to establish part of the travel reliably, the missing documentation remains a recordkeeping problem.
+What if I already filed my IFTA return?
+If you later discover that the mileage reported on a previously filed return was incorrect, first determine the correct distance from the records you have available. Once you know what actually happened, the affected IFTA return can be corrected, if necessary, rather than carrying the error into another quarter.
+What happens if I can't reconstruct all of the mileage?
+Incomplete distance records can create problems during an IFTA audit because the carrier needs records that support the mileage reported on its returns. If the records are inadequate, the reported information may be adjusted and additional fuel tax may be assessed. Preserve the records you still have, reconstruct only what can legitimately be supported, and correct the recordkeeping process going forward.

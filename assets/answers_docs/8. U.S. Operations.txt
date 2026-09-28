@@ -1,0 +1,218 @@
+U.S. OPERATIONS
+I'm a Canadian carrier. What do I actually need before I take my first load into the U.S.?
+Before taking your first load into the United States, your trucking company needs to be set up for U.S. operations and cross-border customs. There are two sides to the trip: entering the United States and coming back into Canada. The customs requirements are different in each direction.
+Do I need a USDOT and MC number?
+A Canadian for-hire carrier hauling regulated freight into the United States under its own authority generally needs a USDOT number and the appropriate FMCSA operating authority, commonly referred to as an MC number. The USDOT number identifies the company in the U.S. commercial carrier safety system, while operating authority determines what type of transportation the company is authorized to provide.
+Where operating authority is required, the related insurance filing and BOC-3 must also be in place before the authority becomes active.
+What is UCR?
+UCR — Unified Carrier Registration — is an annual registration for carriers operating in interstate or international commerce in the United States. Canadian carriers that are subject to UCR need to register and renew it for each registration year.
+What about drug and alcohol requirements?
+Canadian carriers and drivers who are subject to U.S. federal drug and alcohol testing rules must comply with those rules when operating in the United States. This includes applicable FMCSA Drug & Alcohol Clearinghouse requirements. An owner-operator operating under their own USDOT number also has employer responsibilities under the program.
+Do U.S. Hours of Service rules apply to Canadian drivers?
+Yes. When a Canadian driver operates in the United States, the applicable U.S. Hours of Service (HOS) and ELD requirements need to be followed. The driver also needs the required record of duty status for the current day and previous days when operating in the United States.
+Do I need IRP and IFTA to run into the U.S.?
+For qualifying trucks operating between Canadian provinces and U.S. states, IRP and IFTA may apply. IRP deals with vehicle registration across participating jurisdictions, while IFTA deals with fuel tax reporting. If the truck is not registered under the applicable program, trip or fuel permits may be required for the jurisdictions where you operate.
+What do I need when I cross into the United States?
+For the U.S.-bound trip, the carrier needs the customs setup required to report the truck and shipment to U.S. Customs and Border Protection (CBP). A SCAC — Standard Carrier Alpha Code — identifies the carrier in the U.S. customs system. The truck manifest and shipment information are transmitted electronically through ACE — Automated Commercial Environment before the truck arrives at the U.S. border.
+The customs broker handles the import entry for the goods, but the carrier still has its own responsibility for the truck manifest and carrier information.
+What do I need when I come back into Canada?
+The return trip uses the Canadian system. A highway carrier bringing commercial goods into Canada needs a CBSA carrier code and must transmit the required cargo and conveyance information through ACI/eManifest before arriving at the Canadian border. For highway movements, CBSA generally requires the information to be transmitted and validated at least one hour before arrival.
+What is the difference between ACE and ACI/eManifest?
+ACE is the U.S. system. ACI/eManifest is the Canadian system. When you take commercial freight into the United States, the carrier's advance truck-manifest information is submitted through ACE. When you bring commercial freight back into Canada, the carrier's advance cargo and conveyance information is submitted to CBSA through ACI/eManifest.
+Do I need Form 2290 before my first U.S. load?
+Not necessarily. Form 2290 — Heavy Highway Vehicle Use Tax Return — can apply to heavy vehicles used on U.S. public highways, including Canadian-registered vehicles. The filing deadline is based on when the vehicle is first used on a U.S. public highway and is generally the last day of the month following the month of first use, rather than necessarily before the first U.S. trip.
+What should be ready before the first trip?
+Before the first U.S. load, the company needs the U.S. operating registrations and programs that apply to its operation, along with the required cross-border customs setup.
+For the trip itself, remember the direction: Canada → U.S.: SCAC and ACE. U.S. → Canada: CBSA carrier code and ACI/eManifest. Each load also needs the customs information and documents required for the goods being transported.
+Can I take a U.S. load while my operating authority is still pending?
+Generally, no. If you are hauling regulated freight for hire and the operation requires FMCSA operating authority, applying for authority is not enough to begin operating. You cannot transport regulated commodities in interstate commerce for hire until the required operating authority has been issued.
+Is having an MC number enough to take a load?
+No. An MC number can be assigned during the registration process, but that does not mean your operating authority is active. You need the required authority to be issued before hauling freight that requires it, so confirm your authority status before accepting the load rather than relying only on the fact that you have an MC number.
+What if a broker already gave me a load?
+A broker offering or dispatching a load does not change your operating-authority status. If the shipment is regulated freight and your operation requires authority, you still need to wait until the authority has been issued before transporting it. The fact that the load is available or already booked does not make pending authority active.
+Can I haul an exempt commodity while my authority is pending?
+Possibly. Operating authority is not required for a for-hire carrier that exclusively transports exempt commodities, although the carrier still needs to meet the other requirements that apply to its operation, including USDOT registration where required. Whether a commodity is actually exempt should be confirmed before taking the load rather than assumed from its description.
+Can I operate under another carrier's authority while I wait?
+Possibly, but you cannot simply borrow or use another carrier's MC number. A motor carrier can lease its services and operate under another carrier's authority when the arrangement complies with the applicable federal leasing requirements. In that situation, the operation is conducted under the authorized carrier through the proper leasing arrangement while your own authority remains pending.
+Does every U.S. trucking operation require operating authority?
+No. Some operations do not require interstate operating authority, including private carriers transporting their own cargo and for-hire carriers exclusively transporting exempt commodities. For a Canadian carrier planning to haul ordinary freight for customers in the United States, however, the type of operation and commodity need to be checked before assuming an exemption applies.
+What should I check before accepting my first U.S. load?
+Confirm that the registrations and authority required for your particular operation are actually active, rather than merely applied for. A pending application, an assigned MC number and active operating authority are not the same thing. If your load requires operating authority, wait until that authority has been issued before hauling it.
+What is a SCAC Code, and why does a Canadian carrier need one?
+A SCAC — Standard Carrier Alpha Code — is a unique code used to identify a transportation company in U.S. transportation and customs systems. For a Canadian trucking company hauling commercial freight into the United States, the SCAC identifies the carrier when truck-manifest information is submitted to U.S. Customs and Border Protection (CBP).
+What does a SCAC Code look like?
+A SCAC is a unique code made up of two to four letters. The code is assigned to the transportation company and is used as its carrier identifier in systems that need to identify who is transporting the shipment.
+Do Canadian trucking companies need a SCAC Code?
+A Canadian highway carrier submitting truck manifests to CBP through ACE — Automated Commercial Environment — uses its SCAC as the carrier identifier. The SCAC becomes part of the manifest information used to identify the company transporting the shipment.
+Who issues a SCAC Code?
+SCAC codes are issued by the National Motor Freight Traffic Association (NMFTA). You apply for the code through NMFTA rather than CBP. CBP also directs carriers to NMFTA for SCAC applications and renewals.
+What is a PAPS barcode?
+PAPS — Pre-Arrival Processing System — is commonly used for commercial shipments entering the United States. The PAPS shipment number begins with the carrier's SCAC, followed by a unique number for that shipment.
+The PAPS barcode is placed on the shipment documents so the carrier's shipment information and the customs broker's entry can be matched to the same load.
+Is a SCAC Code the same as a CBSA carrier code?
+No. They are different carrier identifiers used on opposite sides of the border. A SCAC identifies the carrier in the U.S. system, while a CBSA carrier code identifies the carrier to the Canada Border Services Agency.
+A Canadian trucking company operating across the border may therefore have both: a SCAC for its U.S. operations and a CBSA carrier code for its Canadian customs operations.
+What about PARS when I come back into Canada?
+PARS — Pre-Arrival Review System — is used for commercial shipments entering Canada. Instead of the SCAC, the PARS shipment number begins with the carrier's CBSA carrier code.
+So the basic distinction is: PAPS uses your SCAC for the U.S.-bound shipment; PARS uses your CBSA carrier code for the Canada-bound shipment.
+What is the difference between SCAC and ACE?
+SCAC is the code that identifies the carrier. ACE is the U.S. electronic trade system used to process trade information, including truck manifests.
+When a truck manifest is submitted through ACE, the carrier's SCAC is used to identify the transportation company responsible for the movement.
+What are PAPS and PARS barcodes, and how do Canadian carriers use them?
+PAPS and PARS are pre-arrival processes used for commercial shipments crossing the Canada-U.S. border. Canadian carriers commonly encounter PAPS when taking freight into the United States and PARS when bringing freight into Canada.
+Both use a unique shipment identifier so the carrier's shipment information can be matched with the customs information for the same load.
+What is a PAPS barcode?
+PAPS — Pre-Arrival Processing System — is commonly used for commercial shipments entering the United States. In ACE, PAPS is the most common shipment release type when a customs entry is expected to be filed for the shipment.
+The shipment is identified by a unique Shipment Control Number (SCN). For a highway carrier, the number begins with the carrier's SCAC, followed by a unique shipment number. The carrier and customs broker need to use the same shipment number so the truck manifest and customs entry can be matched to the same load.
+What is a PARS barcode?
+PARS — Pre-Arrival Review System — is used for commercial shipments entering Canada. The shipment is identified by a Cargo Control Number (CCN), which begins with the carrier's four-character CBSA carrier code, followed by a unique shipment number.
+For a PARS shipment, the barcoded label must show the word PARS. The label can be placed on the invoice or bill of lading. If “PARS” forms part of the actual CCN, that exact number must also be used in the electronic cargo information transmitted to CBSA.
+What is the difference between PAPS and PARS?
+The easiest way to remember them is by the direction of the freight: Canada → U.S.: PAPS uses the carrier's SCAC. U.S. → Canada: PARS uses the carrier's CBSA carrier code.
+They belong to different customs systems, but in both cases the shipment identifier allows the carrier's information and the customs release information to refer to the same load.
+Do I use a new PAPS or PARS number for every load?
+Yes. The shipment identifier needs to be unique.
+For PARS, each shipment needs a new shipment number. Cargo Control Numbers must remain unique and cannot be reused for three years.
+For PAPS, the Shipment Control Number must also be unique and needs to match the number used by the customs broker or entry filer for that shipment.
+Do I send the PAPS or PARS number to my customs broker?
+Yes. The carrier and customs broker need to work with the same shipment identifier so the customs entry can be connected to the correct shipment.
+For PARS, the invoice or bill of lading is sent to the customs broker before the goods arrive in Canada. The driver should have the original barcoded paperwork when arriving at the Canadian border.
+Are PAPS and PARS the same as ACE and ACI/eManifest?
+No. PAPS and PARS relate to the pre-arrival processing and release of the shipment. ACE and ACI/eManifest are the electronic systems used to transmit and process advance information.
+For a U.S.-bound shipment, the carrier's truck manifest is submitted through ACE, and PAPS is a common shipment release type. For a Canada-bound shipment, the carrier transmits the required cargo and conveyance information through ACI/eManifest, using its CBSA carrier code and the unique CCN for the shipment.
+When do I get PAPS and PARS barcode labels?
+On the Canadian side, once a highway carrier receives its CBSA carrier code, the carrier has 30 days to obtain barcoded labels that meet CBSA requirements.
+For PAPS, the carrier first needs its SCAC because the SCAC forms the beginning of the Shipment Control Number used to identify the carrier and shipment in ACE.
+Not necessarily. Your USDOT registration and active FMCSA operating authority allow you to operate under the federal authority that applies to your business, but they do not replace state taxes, registrations or permits. What else you need depends on which states you enter, the weight of your truck and what you haul.
+What does my USDOT number cover?
+Your USDOT number identifies your company in the U.S. commercial motor carrier safety system. It is used by FMCSA to track your company's safety and compliance information. A USDOT number does not replace state highway-use taxes, weight-distance programs or permits.
+What does my MC authority cover?
+Your FMCSA operating authority, often referred to as MC authority, determines the type of interstate or international for-hire transportation your company is authorized to provide. Having active federal authority does not automatically register your company for every state program along your route.
+Do I still need UCR?
+Yes, if your operation is subject to it. UCR — Unified Carrier Registration — is a separate annual registration for carriers operating in interstate or international commerce. Canadian carriers operating in the United States are also subject to UCR.
+Do I still need IRP and IFTA?
+Yes, when they apply to your operation. IRP deals with vehicle registration across participating jurisdictions, while IFTA deals with fuel tax reporting.
+Your federal operating authority does not replace either program. Not every Canadian or U.S. jurisdiction participates in IFTA, and some participating states also have separate highway-use or weight-distance taxes. Before entering a new jurisdiction, check what applies there.
+Which states have additional trucking requirements?
+Some states have their own highway-use or weight-distance tax programs even though they participate in IFTA.
+New York has Highway Use Tax, commonly called HUT, for trucks that meet its weight requirements. Kentucky has the KYU Weight Distance Tax for vehicles with a combined licensed weight over 59,999 lb. New Mexico has a Weight Distance Tax for commercial vehicles with a declared gross vehicle weight over 26,000 lb. Oregon has its own Weight-Mile Tax system for qualifying commercial vehicles operating in the state.
+These programs are separate from your USDOT registration, FMCSA operating authority and IFTA.
+What about Form 2290?
+Form 2290 — Heavy Highway Vehicle Use Tax Return — is another separate federal requirement for taxable highway vehicles with a gross weight of 55,000 lb or more. Canadian-registered vehicles can also be subject to Form 2290 when they are used on U.S. public highways.
+What should I check before entering a new state?
+Before taking a load into a state you have not operated in before, check whether that state has its own highway-use tax, weight-distance tax, registration or permit requirements.
+Your federal authority tells you what transportation your company is authorized to provide. It does not mean that every state-level requirement along your route has already been taken care of.
+What happens after I start operating under new U.S. authority?
+When a new Canadian carrier begins U.S. interstate operations under its USDOT registration, it enters FMCSA's New Entrant Safety Assurance Program. The New Entrant period lasts 18 months, during which FMCSA monitors the carrier's safety performance and requires it to complete a New Entrant Safety Audit.
+What is the FMCSA New Entrant period?
+The New Entrant period is the first 18 months of U.S. interstate operations for a new motor carrier. During this period, FMCSA monitors the carrier's safety performance through roadside inspections and other safety information.
+The records and safety procedures you established before starting U.S. operations now need to be maintained as part of the company's day-to-day operation.
+When will I have my New Entrant Safety Audit?
+A New Entrant Safety Audit must be completed within the first 12 months of operations. FMCSA will contact the carrier and advise how the audit will be conducted, so the company's contact information needs to remain current.
+The audit may be conducted at the carrier's place of business or electronically by submitting the requested records.
+What records are checked during a New Entrant Safety Audit?
+The Safety Audit looks at whether the company has the required safety management controls in place and whether they are actually being followed. The records reviewed may include driver qualification files, Hours of Service records, vehicle maintenance records, accident records, drug and alcohol testing records, and hazardous materials records when applicable.
+What happens if I pass the New Entrant Safety Audit?
+Passing the Safety Audit does not end the New Entrant period. FMCSA continues monitoring the carrier's safety performance for the remainder of the 18 months.
+After completing the New Entrant period and meeting the program requirements, the carrier continues to be monitored through FMCSA's regular safety oversight programs.
+What happens if I fail the New Entrant Safety Audit?
+If the carrier fails the Safety Audit, FMCSA sends written notice identifying the safety problems that need to be corrected. The carrier must provide acceptable corrective action within the required time.
+If the problems are not corrected as required, FMCSA can revoke the carrier's New Entrant registration and place its U.S. operations out of service.
+Can FMCSA investigate me before the Safety Audit?
+Yes. The New Entrant Safety Audit is not the only time the company can be reviewed. FMCSA monitors roadside inspections and other safety information throughout the New Entrant period and can intervene when its safety data indicates problems.
+What should I be doing during my first year?
+Keep the company's driver, Hours of Service, vehicle maintenance, inspection, accident, drug and alcohol, and other required safety records current from the beginning of operations.
+The New Entrant Safety Audit reviews how the company has actually been operating, so the records created during those first months are the records FMCSA may later ask to see.
+I did the regulatory check using current CBP and FMCSA government material, then tightened the draft for repetition and whole paragraphs.
+One correction was important: I removed the implication that the driver necessarily needs to carry proof of the carrier's FMCSA insurance or operating authority in the cab. Those are carrier requirements, but FMCSA maintains the applicable insurance filings electronically. I also corrected the ACE timing: generally one hour before arrival, with a shorter advance period available for qualifying FAST/CTPAT shipments.
+What does the driver need to have when arriving at the border?
+When a Canadian truck arrives at the U.S. border with a commercial load, the driver needs the travel documents required to enter the United States and the documents and information needed to identify the truck, carrier and shipment. The carrier also needs to make sure the required electronic cargo information has been transmitted to U.S. Customs and Border Protection before the truck arrives.
+The exact documents depend on the driver, commodity and shipment, so there is not one identical border package for every load.
+What personal documents does the driver need?
+The driver needs the appropriate travel and identification documents for admission to the United States, based on their citizenship and immigration status. A commercial driver's licence is a driving credential; it does not by itself establish that the driver is admissible to the United States.
+If the driver is using the FAST program, they also need the appropriate FAST credential and the trip must qualify for FAST processing.
+What documents does the driver need for the load?
+The driver should have the bill of lading and the commercial or shipping documents required for the shipment, together with the information needed to identify the load at the border. Depending on the commodity, additional permits, certificates or documents from another government agency may also be required.
+The driver should know what is being transported, where it came from, where it is going and who the shipper and consignee are.
+Does ACE eManifest need to be submitted before the truck arrives?
+Yes, when the shipment is subject to the advance cargo requirement. The required ACE truck manifest information is generally transmitted electronically at least one hour before the truck reaches the first U.S. port of arrival. Qualifying FAST/CTPAT shipments can be subject to a shorter advance transmission period.
+Having the bill of lading in the truck does not replace the electronic manifest requirement. The carrier should confirm that the required information has been transmitted before the driver reaches the border.
+What if a customs broker is handling the shipment?
+A customs broker can prepare and submit the importer's customs entry, but the broker does not replace the carrier's ACE manifest responsibilities. The customs entry and the carrier's truck manifest are different parts of the border process.
+Before arriving at the border, the driver should have the shipment information and references needed for the load and know whether any outstanding customs issue needs to be resolved.
+What if the load contains a regulated commodity?
+Some commodities require additional permits, certificates, declarations or inspections before they can enter the United States. This can apply to food, agricultural products, animals, plants, hazardous materials and other regulated goods.
+Those requirements should be identified before the truck leaves for the border. The documents needed depend on what is being transported and which U.S. government agency regulates it.
+Can I use the FAST lane if I have a FAST card?
+Not necessarily. A driver's FAST card alone does not make the shipment eligible for FAST processing. At the northern border, the driver, carrier and importer must meet the applicable FAST/CTPAT participation requirements for the trip to receive FAST processing.
+The carrier should confirm that the shipment qualifies before the driver enters the FAST lane.
+What should the driver check before leaving for the border?
+Before leaving, confirm that the driver's travel documents are in order, the shipment documents are available, the ACE manifest has been transmitted and any additional documents required for the commodity are ready. The driver should also have the information needed to identify the truck, carrier and shipment when speaking with the border officer.
+Preparing the crossing before the truck reaches the port is much easier than trying to locate missing information while the driver is already at the border.
+I received an FMCSA New Entrant Safety Audit notice. What do I do now?
+If you received a New Entrant Safety Audit notice, read it carefully and follow the instructions and deadline provided by FMCSA. The audit is part of the New Entrant Safety Assurance Program and is used to determine whether your company has the basic safety management controls required to operate safely in U.S. interstate commerce. Review the documents being requested before submitting them so you know what is complete, what is missing and what may need attention.
+Why did my Canadian trucking company receive a New Entrant Safety Audit?
+The New Entrant Safety Assurance Program applies to Canada-based as well as U.S.-based motor carriers that enter U.S. interstate commerce as new entrants. New entrants are monitored for an initial 18-month period, during which FMCSA monitors safety performance and conducts a Safety Audit. Receiving the audit notice is therefore part of the New Entrant process and does not by itself mean that FMCSA has identified a problem with your company.
+When will my New Entrant Safety Audit happen?
+FMCSA generally conducts the Safety Audit within the first 12 months after the carrier begins operations, once the carrier has been operating long enough to have records that can be reviewed. The carrier remains in the New Entrant monitoring period for 18 months, so the Safety Audit and the New Entrant period are not the same length.
+What records will FMCSA review?
+The audit can examine areas such as driver qualifications, Hours of Service, vehicle maintenance and inspections, accident records, drug and alcohol testing requirements, financial responsibility and hazardous materials requirements where applicable. FMCSA is determining whether the carrier has adequate safety management controls, so the records need to show what the company has actually been doing rather than simply that policies or forms exist.
+What if some of my records are missing?
+Review the requested records before submitting them. If a legitimate document exists but is missing from your file, obtain it from the appropriate source where possible. If a required inspection, test, record or procedure never occurred, do not create or backdate a document to make it appear that it did. Identify what actually happened and correct the underlying compliance problem where possible.
+Will my New Entrant Safety Audit be online or in person?
+The Safety Audit can be conducted at the carrier's place of business, at another agreed location or electronically through the submission of records. The notice you receive will tell you how your particular audit will be conducted and how the requested information needs to be provided.
+What can cause me to fail the New Entrant Safety Audit?
+FMCSA evaluates whether the carrier has adequate basic safety management controls, and 16 specific regulatory violations can result in automatic failure of the Safety Audit. These include serious violations involving areas such as drug and alcohol testing, financial responsibility, driver qualifications, Hours of Service and vehicle inspection and maintenance.
+What happens if I fail the Safety Audit?
+FMCSA will provide written notice identifying the deficiencies and the corrective action required. Most property carriers have 60 days from the notice to provide acceptable evidence of corrective action, while passenger carriers and carriers transporting placardable hazardous materials have 45 days. If acceptable corrective action is not provided within the applicable period, the carrier's New Entrant registration can be revoked and its operations placed out of service.
+Can someone assist me with the New Entrant Safety Audit?
+Yes. Someone familiar with U.S. carrier compliance can assist with reviewing the requested records, identifying deficiencies, organizing the submission and preparing the carrier for the audit. The carrier remains responsible for its records, safety management controls and compliance with the requirements that apply to its operation.
+What happens after I pass the New Entrant Safety Audit?
+Passing the Safety Audit does not immediately end New Entrant monitoring. FMCSA continues monitoring the carrier's safety performance for the remainder of the 18-month New Entrant period. If the carrier successfully completes the program, it moves out of New Entrant status and continues under FMCSA's regular safety oversight system.
+What does a Canadian carrier need before operating in California?
+A Canadian carrier operating in California needs to meet California requirements in addition to the federal U.S. requirements that apply to the operation. For a typical Canadian for-hire trucking company, this can include a California Carrier Identification number and Motor Carrier Permit, proper IRP and IFTA credentials, California weight and axle requirements, and compliance with California's heavy-duty vehicle emissions rules.
+Having a USDOT number and active federal operating authority does not by itself complete the California setup.
+Do I need a California Motor Carrier Permit and CA number?
+Yes. A for-hire carrier that is paid to transport property on California highways generally needs a California Carrier Identification number, commonly called a CA number, and a Motor Carrier Permit (MCP). The CA number is issued through the California Highway Patrol, while the Motor Carrier Permit is issued by the California DMV and uses the carrier's CA number.
+These California requirements are separate from the carrier's USDOT number and FMCSA operating authority.
+Do I need IRP to operate in California?
+If the truck operates under IRP apportioned registration, California can be covered through the IRP registration rather than requiring ordinary California vehicle registration. The truck needs the appropriate registration credentials before operating in the state.
+If the truck is not properly registered for the trip through IRP, determine whether temporary registration authority is required before entering California.
+Is the axle weight limits different in California?
+Yes. A truck that is legal at Canadian weights is not automatically legal at the same weights in California. Under California's general legal-weight rules, the maximum gross combination weight is 80,000 pounds, a single axle is generally limited to 20,000 pounds, and a tandem axle group is generally limited to 34,000 pounds.
+Axle spacing also affects the allowable weight for groups of consecutive axles. This means being below 80,000 pounds gross does not automatically make the combination legal if an individual axle or axle group exceeds its limit. Before taking a heavier load into California, check the gross weight, individual axle weights, axle-group weights and axle spacing against California requirements.
+Does my Canadian IFTA licence cover California?
+Yes. California participates in IFTA, so a qualified vehicle operating under a valid IFTA licence and decals issued by its Canadian base jurisdiction can report its California fuel-tax activity through IFTA.
+If the vehicle requires IFTA credentials but does not have them, determine what temporary fuel-tax authorization is required before operating in California.
+Does my truck have to comply with California Clean Truck Check?
+For most diesel and alternative-fuel heavy-duty vehicles with a GVWR over 14,000 pounds, California's Clean Truck Check requirements apply even when the vehicle is registered outside California or outside the United States.
+Subject vehicles need to be reported in California's Clean Truck Check system, the applicable compliance fee needs to be paid, and required passing emissions tests need to be submitted according to the program's schedule.
+Do California requirements apply if I only go there occasionally?
+Yes. Occasional operation does not automatically exempt a Canadian carrier from California requirements. A carrier taking only occasional California loads still needs to determine which motor-carrier, registration, fuel-tax, weight and emissions requirements apply before operating in the state.
+What should I check before taking my first California load?
+Before dispatching the truck, confirm that your federal U.S. registrations and authority are active, your California CA number and Motor Carrier Permit are in place, the truck has the appropriate IRP and IFTA credentials, the load meets California's weight requirements and the vehicle meets the California emissions requirements that apply to it.
+California has several requirements that operate independently of FMCSA, so completing the federal U.S. setup does not automatically mean the truck is ready to operate in California.
+What should I check before taking a loaded truck into California?
+Before taking a loaded truck into California, check the gross weight, individual axle weights, axle-group weights, axle spacing and trailer axle position. California applies its own weight and vehicle-dimension rules, so a truck that is legally loaded in Canada is not automatically legal in California.
+This is particularly important when adjusting the trailer tandems. Moving the tandems can correct an axle-weight problem while creating a different problem with California's trailer axle-position requirements.
+What is the maximum truck weight in California?
+For a typical legal combination, the maximum gross weight is generally 80,000 pounds. A single axle is generally limited to 20,000 pounds, while a tandem axle group is generally limited to 34,000 pounds.
+The gross weight is only one part of the calculation. A truck can weigh less than 80,000 pounds overall and still be overweight because too much weight is carried on an individual axle or axle group.
+Why does axle spacing matter in California?
+California's allowable weight for groups of consecutive axles depends on the number of axles and the distance between the outer axles in the group. As the axle configuration and spacing change, the allowable weight for that group can also change.
+This is why the same total load can be legal on one axle configuration and overweight on another. The actual axle weights and spacing need to be considered together.
+Can I use the same load distribution I use in Canada?
+Not necessarily. The weight carried on the steer axle, drive axles and trailer axles needs to comply with the limits that apply in California. Being legal at the Canadian end of the trip does not establish that the same load distribution is legal in California.
+Before entering the state, check the actual axle and axle-group weights rather than relying only on the gross weight shown on the scale ticket.
+Does California have a limit on where I position my trailer axles?
+Yes. This is separate from the axle-weight calculation. For a typical 53-foot STAA semitrailer with two or more axles, California generally limits the distance from the kingpin to the rearmost axle to 40 feet. A 53-foot single-axle semitrailer generally has a 38-foot limit.
+This matters when sliding the trailer tandems to redistribute weight. Moving the tandems may correct an axle-weight problem, but the resulting trailer axle position still needs to meet California's kingpin-to-rearmost-axle and route requirements.
+Can I take a heavier load into California with an overweight permit?
+Possibly, but California oversize and overweight permits are generally intended for non-reducible loads that cannot reasonably be divided into smaller loads. A permit is not simply a way to carry more ordinary divisible freight.
+The weight that can be permitted depends on the vehicle configuration, axle spacing, axle weights and route, so the allowable weight needs to be determined for the specific movement.
+Does the route I take through California matter?
+Yes. California's truck access and dimensional requirements can depend on the highway and route being used. A truck configuration that is permitted on one part of the highway system may have restrictions on another route.
+Before dispatching the load, check the planned route together with the truck's weight and configuration rather than treating California as having one set of access rules for every road.
+What should I check before entering California?
+Before entering the state, confirm the gross weight, individual axle weights, axle-group weights, axle spacing, trailer axle position and the requirements for the planned route. If the load exceeds normal legal limits, determine whether it qualifies for the appropriate permit before the trip begins.
+For a Canadian carrier, these checks should be done before dispatching the load, rather than trying to correct the weight or tandem position after the truck reaches California.

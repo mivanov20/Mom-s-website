@@ -1,0 +1,145 @@
+INCOME TAX
+What income tax return does an owner-operator need to file?
+The income tax return you file depends on how your trucking business is set up. An owner-operator can operate as a sole proprietor or through a corporation. The tax return is different for each.
+What tax return does a sole proprietor file?
+If you operate as a sole proprietor, the trucking business is not a separate taxpayer from you. You report the income and expenses from the trucking business as part of your T1 Personal Income Tax and Benefit Return.
+Business income and expenses are generally reported on Form T2125 — Statement of Business or Professional Activities. Your business expenses are deducted from your business income to determine the net income from the trucking business that is included in your personal tax return.
+What tax return does an incorporated owner-operator file?
+If your trucking company is incorporated, the corporation is a separate taxpayer. The corporation files a federal T2 Corporation Income Tax Return every tax year. In Alberta, the corporation also has a separate Alberta corporate income tax return.
+Do I file both a T1 and a T2 if I am incorporated?
+The corporation files the T2. You still file your own T1 personal tax return and report the income you personally receive from the company, along with any other income you have. The company's income and your personal income are not the same thing.
+Does being an owner-operator mean I am self-employed?
+Not always. Owner-operator describes how you work in the trucking industry. It does not, by itself, determine your tax status.
+Whether the trucking income is reported as self-employment income on a T1 or as income of a corporation on a T2 depends on how the business is structured.
+My corporation didn't make any money. Do I still have to file a corporate tax return?
+Yes. A resident corporation generally has to file a T2 Corporation Income Tax Return every tax year even if it made no money, had a loss, was inactive or has no tax to pay.
+For a trucking company, parking the truck, having no loads or temporarily stopping operations does not by itself remove the corporation's filing requirement.
+What if the corporation had expenses but no revenue?
+The expenses still need to be recorded. A corporation may continue paying insurance, accounting fees, bank charges, permits, interest or equipment costs even when it does not earn revenue.
+Depending on the corporation's circumstances, those transactions may result in a loss for the year.
+What happens to a corporate loss?
+A qualifying non-capital loss may be available to reduce taxable income in another tax year.
+Non-capital losses can generally be carried back 3 years and carried forward 20 years, subject to the applicable tax rules. The loss needs to be properly calculated and reported before it can be used.
+When is the corporate tax return due?
+The T2 Corporation Income Tax Return is generally due six months after the end of the corporation's tax year.
+A corporation's tax year is its fiscal period, so the filing deadline is not necessarily based on December 31. The filing deadline still applies even when the corporation has no tax to pay.
+Do I still need bookkeeping if the corporation had very little activity?
+Yes. The corporation still needs records showing what happened during the year.
+Even a corporation with no revenue may have bank balances, expenses, equipment, loans, shareholder transactions or other amounts that need to be recorded and reflected in its year-end records.
+Does an Alberta corporation also have to file an Alberta corporate tax return?
+Possibly. Alberta administers its own corporate income tax system, and a corporation with a permanent establishment in Alberta is generally required to file an Alberta Corporate Income Tax Return (AT1).
+However, some corporations are exempt from filing the AT1. For example, a qualifying Canadian-controlled private corporation with no taxable income, no permanent establishment outside Alberta, gross revenue not exceeding $500,000 and certain other conditions may qualify for the Alberta filing exemption.
+The federal T2 filing requirement still applies even when the corporation qualifies for an Alberta AT1 filing exemption.
+Can I stop filing returns if I am no longer using the corporation?
+No. Stopping business activity and legally dissolving the corporation are different things.
+If you no longer intend to use the corporation, the corporation and its tax accounts need to be properly closed. Until the corporation is legally dissolved and its applicable final filing obligations are completed, do not assume that you can simply stop filing returns.
+I haven't finished my bookkeeping. Can my tax return still be prepared?
+Possibly, but the bookkeeping needs to be complete enough to prepare an accurate tax return and financial information. Your records do not have to be perfectly organized, but the transactions that affect the tax year need to be accounted for.
+If several months of transactions are missing or the accounts have not been reconciled, the bookkeeping may need to be completed before the tax return can be finalized.
+Do all my transactions need to be entered before the tax return is prepared?
+The transactions that affect the tax year need to be accounted for. CRA requires businesses to keep records of their transactions and supporting documents for their income and expense claims.
+For a corporation, the T2 return also includes financial information from the business. Missing revenue, expenses, equipment purchases, loans or shareholder transactions can affect that information.
+Do my bank and credit-card accounts need to be reconciled?
+They should be. Reconciliation helps confirm that the transactions in the books agree with the actual activity in the bank and credit-card accounts.
+It can identify transactions that were missed, duplicated or recorded incorrectly before the financial information and tax return are prepared.
+What if I am missing receipts?
+A missing receipt does not necessarily mean the entire tax return has to wait, but the expense still needs to be properly supported.
+CRA says that if a supplier did not provide a receipt, you should record the supplier's name and address, the amount paid, the date and the details of the transaction in your expense records. Where a receipt originally existed but has been lost, try to obtain a replacement from the supplier.
+GST/HST input tax credits have additional documentary requirements, so an expense being recorded for income-tax purposes does not automatically mean there is enough documentation to claim the GST/HST.
+Can I estimate expenses if my bookkeeping isn't finished?
+You should not simply guess at expenses to complete the return. CRA requires records that support the business's income and expense claims.
+If information is missing, use the available legitimate records to determine what actually happened rather than estimating amounts from memory.
+What if my tax filing deadline is coming up?
+Do not ignore the deadline because the bookkeeping is unfinished. For a corporation, the T2 return is generally due six months after the corporation's tax year-end.
+The corporate tax payment deadline is separate and can occur before the T2 filing deadline, so unfinished bookkeeping can also make it difficult to determine how much tax needs to be paid on time.
+Can my return be filed now and corrected later?
+A T2 return can be changed after it has been assessed if an error is discovered or information was omitted. CRA allows corporations to request a reassessment and submit revised financial information or schedules where necessary.
+That does not mean filing a return you already know is incomplete should be the normal solution. Where possible, the records needed to prepare an accurate return should be completed before filing.
+What if my bookkeeping is finished but messy?
+Messy records are different from incomplete records. If the transactions are present and can be supported, the books may simply need cleanup, reconciliation and year-end adjustments before the tax return is prepared.
+That is usually different from having months of transactions or important financial information completely missing.
+What should I have ready before my tax return is prepared?
+Have the records covering the entire tax year available, including bank and credit-card statements, sales or settlement records, receipts and invoices, loan information, equipment purchases and sales, payroll records, GST/HST information and personal payments made for business expenses.
+The tax return should be prepared from the business's actual financial records rather than reconstructed from memory at filing time.
+What trucking business expenses can be claimed for income tax purposes?
+A trucking business can generally claim reasonable expenses incurred to earn business income, as long as the expense is properly supported and is not personal.
+For a trucking company, deductible expenses can include fuel, repairs, insurance, permits, wages, professional fees and many of the other costs required to operate the business.
+Can I claim fuel and DEF?
+Yes. Fuel and other operating costs used to run the truck for business can generally be claimed.
+Keep the receipts or other supporting records for the purchases. If a vehicle has both business and personal use, only the business portion of the applicable expenses can generally be claimed.
+Can I claim truck repairs and maintenance?
+Yes. Normal repairs and maintenance required to keep business equipment operating can generally be claimed as current expenses.
+However, a cost that substantially improves the equipment, extends its useful life or provides a lasting benefit may be a capital expense rather than an expense deducted entirely in the year it was paid.
+Can I claim truck and trailer insurance?
+Yes. Insurance premiums relating to business equipment and operations can generally be claimed as business expenses.
+Personal insurance costs are not deductible simply because they were paid through the business.
+Can I claim my truck payments?
+Not as one monthly expense. If you financed the purchase of a truck, the payment normally includes principal and interest, and those amounts are treated differently.
+The purchase price of the truck is a capital cost. Instead of deducting the entire purchase price as an ordinary expense, the business may claim Capital Cost Allowance (CCA) according to the tax rules that apply to the equipment. Eligible interest on money borrowed to purchase business equipment may be deductible separately.
+What if I lease the truck instead of buying it?
+Eligible leasing costs for a truck used to earn business income can generally be deducted.
+Buying and leasing are treated differently for tax purposes, so a lease payment should not be recorded the same way as a loan payment on a truck the business owns.
+Can I claim permits, plates and registration costs?
+Business-related licence, registration and permit fees can generally be deductible when they relate to operating the business.
+Keep records identifying what each payment was for rather than combining all government and registration payments into one unidentified amount.
+Can I claim accounting, bookkeeping and legal fees?
+Reasonable accounting, bookkeeping and legal fees incurred for the business can generally be deductible.
+Some professional costs connected with buying a capital asset or another capital transaction may need to be treated differently rather than deducted as an ordinary operating expense.
+Can I claim driver wages and payroll costs?
+Yes. Salaries and wages paid to employees can generally be deductible business expenses. Eligible employer contributions associated with payroll may also be deductible.
+The company still needs to meet its payroll deduction, reporting and remittance obligations.
+Can I claim meals while I am on the road?
+Possibly. Buying a meal while driving does not automatically make the meal deductible.
+Meal and beverage expenses are generally subject to a 50% deduction limit. A special 80% deduction applies to food and beverages consumed by a long-haul truck driver during an eligible travel period.
+For this rule, an eligible travel period generally requires the driver to be away from their municipality or metropolitan area for at least 24 continuous hours while driving qualifying long-haul truck transporting goods to or from a location at least 160 kilometers away.
+Can I claim hotels and travel expenses?
+Reasonable travel expenses incurred while carrying on the business away from home can generally be deductible when they relate to earning business income.
+Personal travel expenses are not deductible simply because they occurred during a business trip.
+What about office, phone and software expenses?
+Business expenses such as office supplies, telephone costs, accounting software, dispatch software, ELD subscriptions and other services used to operate the business may be deductible.
+If an expense has both business and personal use, only the applicable business portion should generally be claimed.
+Can I claim interest and bank charges?
+Eligible interest on money borrowed for business purposes and business-related bank charges can generally be deductible.
+The reason the money was borrowed matters. Interest on personal borrowing does not become a business expense simply because the payment was made from the company's account.
+Can I claim every expense paid from my company bank account?
+No. Paying something from the company account does not automatically make it a deductible business expense.
+Personal and living expenses are generally not deductible. Capital purchases are treated differently from ordinary operating expenses, and some expenses have specific limitations.
+What records do I need to claim trucking expenses?
+Keep receipts, invoices and other records that identify the transaction and support the business expense.
+Bank and credit-card statements are useful records, but the supporting documents should make it possible to determine what was purchased and how the expense relates to the business.
+Does every trucking company claim the same expenses?
+No. The expenses depend on how the business operates, whether equipment is owned or leased, whether there are employees, where the trucks operate and what costs the company actually incurs.
+The important question is not whether another trucking company claimed the same expense. It is whether your expense was incurred to earn business income, is treated correctly for tax purposes and can be supported by your records.
+What happens when I buy or sell a truck?
+Buying or selling a truck is different from paying an ordinary business expense. A truck is normally a capital asset, so the purchase or sale needs to be recorded properly in the business's accounting records and can affect both income tax and GST/HST.
+Do not record the full purchase price as a regular truck expense or treat all of the money received from a sale as ordinary business income.
+What happens in the books when I buy a truck?
+The truck is normally recorded as an asset of the business, rather than having the full purchase price deducted as an ordinary expense in the year you buy it.
+The cost of the truck is recorded so the appropriate tax treatment can be determined at year-end.
+Can I deduct the full cost of the truck in the year I buy it?
+Usually, a truck is claimed for income tax purposes through Capital Cost Allowance (CCA) rather than being deducted as an ordinary operating expense.
+The amount that can be claimed depends on the tax rules that apply to the truck and the year it was acquired and became available for use.
+What if I financed the truck?
+The truck and the financing are recorded separately.
+Your payments normally include principal and interest. Repaying principal reduces the amount owed on the loan and is not itself a deductible truck expense. Eligible interest on money borrowed for business purposes may generally be deductible.
+What documents should I keep when I buy a truck?
+Keep the purchase agreement or bill of sale, invoice, financing documents and proof of payment.
+The records should show the purchase price, GST/HST charged, trade-in information where applicable and enough information to identify the truck.
+Can I claim the GST/HST when I buy a truck?
+If the business is registered for GST/HST and the truck is acquired for use in the business's commercial activities, the business may be eligible to claim an input tax credit (ITC) for the GST/HST paid or payable, subject to the normal ITC rules.
+Keep the complete purchase documentation because the amount involved can be significant.
+What happens when I trade in my old truck?
+A trade-in involves both selling the old truck and buying the replacement truck.
+Keep the dealer paperwork showing the trade-in allowance, purchase price of the new truck, GST/HST, financing and any amount paid or financed. Both sides of the transaction need to be recorded.
+What happens when I sell a truck?
+The truck needs to be removed from the business's asset records and the sale needs to be recorded properly.
+Selling a truck can also have an income-tax effect, depending on what the business originally paid for the truck, the tax deductions previously claimed and the amount received when it was sold. That calculation is normally dealt with when the business's income tax return is prepared.
+Do I charge GST/HST when I sell the truck?
+If you are a GST/HST registrant and the truck was used primarily in your commercial activities immediately before the sale, GST/HST generally applies to the sale.
+Selling the truck privately rather than through a dealer does not by itself remove the GST/HST obligation.
+What if I still owe money on the truck when I sell it?
+You can sell a truck even when financing is still outstanding, but the truck and the loan are separate in the books.
+Part of the sale proceeds may be used to pay off the lender. If the proceeds do not fully repay the financing, the remaining loan balance still needs to be dealt with.
+What should I give my bookkeeper when I buy or sell a truck?
+Provide the complete transaction documents, including the bill of sale or purchase agreement, dealer invoice, financing or payout statement, trade-in details, GST/HST information and proof of payment or proceeds received.
+Do not provide only the monthly payment or the amount that appeared in the bank account. The complete paperwork is needed to record the truck, financing, GST/HST and trade-in correctly.
