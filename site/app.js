@@ -357,13 +357,22 @@ function initThemeToggle() {
         return;
       }
 
+      const holder = image.closest(".brand-logo");
+
+      // A fresh theme gets a fresh attempt.
+      image.dataset.logoTriedLight = "";
+      holder?.classList.remove("logo-missing");
+
+      // If the logo file will not load: try the light logo once, then give up quietly.
+      // (Retrying the same missing file forever made the logo flicker.)
       image.onerror = () => {
-        if (image.src.endsWith(encodeURI(lightSrc || ""))) {
+        if (lightSrc && nextSrc !== lightSrc && !image.dataset.logoTriedLight) {
+          image.dataset.logoTriedLight = "1";
+          image.src = lightSrc;
           return;
         }
-        if (lightSrc) {
-          image.src = lightSrc;
-        }
+        image.onerror = null;
+        holder?.classList.add("logo-missing");
       };
 
       image.src = nextSrc;
@@ -376,9 +385,7 @@ function initThemeToggle() {
     localStorage.setItem(storageKey, nextTheme);
 
     const switchingToDark = nextTheme === "dark";
-    toggle.textContent = switchingToDark ? "Light Mode" : "Dark Mode";
-    toggle.setAttribute("aria-pressed", String(switchingToDark));
-    toggle.setAttribute("aria-label", switchingToDark ? "Switch to light mode" : "Switch to dark mode");
+    toggle.setAttribute("aria-checked", String(switchingToDark));
 
     updateLogoSources(nextTheme);
   }
@@ -426,44 +433,35 @@ function initScrollReveal() {
   });
 }
 
-function initMenuToggle() {
-  const menuToggle = document.querySelector(".menu-toggle");
-  const themePopup = document.querySelector(".theme-popup");
+function initNavToggle() {
+  const header = document.querySelector(".site-header");
+  const toggle = document.querySelector(".nav-toggle");
 
-  if (!menuToggle || !themePopup) {
+  if (!header || !toggle) {
     return;
   }
 
-  function setMenuState(isOpen) {
-    themePopup.classList.toggle("is-open", isOpen);
-    menuToggle.setAttribute("aria-expanded", String(isOpen));
-    menuToggle.setAttribute("aria-label", isOpen ? "Close menu" : "Open menu");
+  function setOpen(isOpen) {
+    header.classList.toggle("nav-open", isOpen);
+    toggle.setAttribute("aria-expanded", String(isOpen));
+    toggle.querySelector(".nav-toggle-label").textContent = isOpen ? "Close" : "Menu";
   }
 
-  menuToggle.addEventListener("click", () => {
-    const isOpen = themePopup.classList.contains("is-open");
-    setMenuState(!isOpen);
-  });
-
-  themePopup.querySelectorAll("button, a").forEach((item) => {
-    item.addEventListener("click", () => {
-      setMenuState(false);
-    });
-  });
-
-  document.addEventListener("click", (event) => {
-    const target = event.target;
-    if (!(target instanceof Node)) {
-      return;
-    }
-    if (!themePopup.contains(target) && !menuToggle.contains(target)) {
-      setMenuState(false);
-    }
+  toggle.addEventListener("click", () => {
+    setOpen(!header.classList.contains("nav-open"));
   });
 
   document.addEventListener("keydown", (event) => {
-    if (event.key === "Escape") {
-      setMenuState(false);
+    if (event.key === "Escape" && header.classList.contains("nav-open")) {
+      setOpen(false);
+      toggle.focus();
+    }
+  });
+
+  // Going back to a wide screen: reset so the links are never stuck hidden
+  window.matchMedia("(min-width: 1181px)").addEventListener("change", (event) => {
+    if (event.matches) {
+      setOpen(false);
     }
   });
 }
@@ -623,7 +621,7 @@ function initAnswersPage() {
 
 document.addEventListener("DOMContentLoaded", () => {
   initThemeToggle();
-  initMenuToggle();
+  initNavToggle();
   initScrollReveal();
   initAnswersPage();
   initWorkflowPlanner();
